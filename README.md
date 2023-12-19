@@ -13,6 +13,10 @@
 - adicionarFilme.html: Aluraflix. 🍿
 - tabela.html: Tabela de pontuação da Alura. 📋
 
+## Acesso
+
+Hospedado no Firebase, creditado pela Google o projeto pode ser acessado [clicando aqui](https://imersao-alura-4ccd7.web.app/)
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests.
