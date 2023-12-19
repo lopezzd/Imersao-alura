@@ -15,7 +15,7 @@
 
 ## Acesso
 
-Hospedado no Firebase, creditado pela Google o projeto pode ser acessado [clicando aqui](https://imersao-alura-4ccd7.web.app/)
+Hospedado no Firebase, creditado pela Google e o projeto pode ser acessado [clicando aqui](https://imersao-alura-4ccd7.web.app/)
 
 ## Contribuição
 
